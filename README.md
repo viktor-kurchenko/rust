@@ -4,3 +4,4 @@
 * Build release version: `cargo build --release`
 * Build & run version: `cargo run`
 * Build & check version: `cargo check`
+* Update dependency version: `cargo update`
